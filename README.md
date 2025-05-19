@@ -100,8 +100,6 @@ Assumptions:
 
 ---
 
----
-
 ## Additional Notes
 
 - All queries are **self-contained**, well-commented, and formatted for readability.
